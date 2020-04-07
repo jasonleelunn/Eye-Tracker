@@ -4,5 +4,5 @@
 
 ### Contributors
 
-Jason Lunn (me)
-Hugh Baxter
+* Jason Lunn (me)
+* Hugh Baxter
