@@ -16,7 +16,11 @@
 
 ![Still Image of Eye for Testing Purposes](Resolution_Image.jpg "Still Photo of Eye Taken for Resolution Testing")
 
+* Still photo of my eye taken via webcam for testing the impact of resolution on tracking accuracy
+
 ![Plot to show how accuracy changes with horizontal viewing distance on screen](Resolution_Plot.png "Graph of Accuracy vs Position viewed on Screen")
+
+* This plot shows the change in accuracy due to image resolution quality. The different coloured points represent alternate ways of calculating the centre of the pupil, as outlined in more detail in the Eye Tracking Report pdf file.
 
 ### Changelog
 
