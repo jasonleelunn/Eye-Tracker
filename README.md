@@ -14,9 +14,9 @@
 
 ### Relevant Figures
 
-![Still Image of Eye for Testing Purposes](Resolution-Image.jpg "Still Photo of Eye Taken for Resolution Testing")
+![Still Image of Eye for Testing Purposes](Resolution_Image.jpg "Still Photo of Eye Taken for Resolution Testing")
 
-![Plot to show how accuracy changes with horizontal viewing distance on screen](Resolution-Plot.png "Graph of Accuracy vs Position viewed on Screen")
+![Plot to show how accuracy changes with horizontal viewing distance on screen](Resolution_Plot.png "Graph of Accuracy vs Position viewed on Screen")
 
 ### Changelog
 
